@@ -5,4 +5,4 @@ This contains instructions for two Google Cloud Platform labs:
 - [Google Cloud Fundamentals: Getting Started with GKE](/google-cloud-fundamentals-getting-started-with-gke.md)
 
 It also contains QwikLabs email screenshots of completed labs:
-- [QwikLab Emails Screenshots](https://github.com/asambu/images)
+- [QwikLab Emails Screenshots](/images)
